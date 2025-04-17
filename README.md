@@ -1,6 +1,6 @@
-# samsung_now_bar
+# Samsung Now Bar
 
-A new Flutter project.
+A Flutter project that implements a Now Bar widget for Samsung devices.
 
 ## Getting Started
 
